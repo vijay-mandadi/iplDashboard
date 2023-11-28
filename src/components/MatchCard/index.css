@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.matchcard-item {
+  background-color: #0f172a;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: space-between;
+  margin: 20px;
+  width: 250px;
+  border-radius: 15px;
+}
+
+.won {
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  font-weight: 500;
+  color: green;
+}
+
+.lost {
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  font-weight: 500;
+  color: red;
+}

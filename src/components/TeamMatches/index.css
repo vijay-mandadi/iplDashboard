@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  background-image: linear-gradient(to bottom, #a4261d, #1e293b);
+}
+
+.teammatch-container {
+  width: 100%;
+}
+
+.banner {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.matches-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}

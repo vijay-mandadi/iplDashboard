@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.latestmatch-container {
+  background-color: #0f172a;
+  border-radius: 5px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-family: 'Bree Serif';
+  color: white;
+  font-size: 15px;
+}
+
+.team {
+  font-weight: 500;
+  font-size: 25px;
+}
+
+.date {
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.last-cont {
+  text-align: end;
+}
+
+.first-cont {
+  text-align: start;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
